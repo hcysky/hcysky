@@ -50,5 +50,3 @@ If you find my work useful, please consider talking with me</a>!
 
 *- Albert Einstein -*
 
-[twitter]: https://twitter.com/t_rajapakse
-[linkedin]: https://www.linkedin.com/in/t-rajapakse/
