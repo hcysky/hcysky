@@ -1,8 +1,13 @@
 ## :coffee: hello world, I'm hcysky :coffee:
 
 
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hcysky&style=for-the-badge">
+</a> -->
+
 ![](https://komarev.com/ghpvc/?username=hcysky&color=blue)
 <!-- Referecne: https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file -->
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
@@ -10,11 +15,11 @@
 
 - :robot: Obsessed with everything tech
 - :bulb: Rome was not built in a day
-- :mag_right: Learning and doing research in securing LLM
+- 💻 Learning and doing research in securing LLM
 - :memo: Here today, gone tomorrow
 - :100: Keep going
 
-
+---
 ## Life Goals
 
 - :badminton: Play badminton with my friends
