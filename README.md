@@ -9,10 +9,10 @@
 
 
 - :robot: Obsessed with everything tech
-- :bulb: Creator of the [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) library
+- :bulb: Rome was not built in a day
 - :mag_right: Learning and doing research in securing LLM
 - :memo: Here today, gone tomorrow
-- :100: Come on
+- :100: Keep going
 
 
 ## Life Goals
