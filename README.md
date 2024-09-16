@@ -20,6 +20,13 @@
 - :100: Keep going
 
 ---
+## Motto
+
+- [ ] Talk is cheap, show me the code
+- [ ] Genius is one percent inspiration and ninety-nine percent perspiration
+
+
+---
 ## Life Goals
 
 - :badminton: Play badminton with my friends
