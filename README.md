@@ -37,7 +37,7 @@
 ---
 
 
-## Support:
+## Support
 
 If you find my work useful, please consider talking with me</a>!
 
@@ -45,7 +45,7 @@ If you find my work useful, please consider talking with me</a>!
 
 ---
 
-##  📕 Latest Medium Posts
+## Latest Updates
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Overview](https://github.com/hcysky)
 <!-- BLOG-POST-LIST:END -->
