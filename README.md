@@ -52,9 +52,12 @@ If you find my work useful, please consider talking with me</a>!
 
 ---
 
-![hcysky's github stats](https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&hide_border=true&hide=contribs&theme=dark)
+<!-- ![hcysky's github stats](https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&hide_border=true&hide=contribs&theme=dark)-->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&theme=gotham" alt="hcysky" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats/ -->
+<!-- https://github.com/hcysky/awesome-github-profile-readme?tab=readme-ov-file -->
 
 ---
 
