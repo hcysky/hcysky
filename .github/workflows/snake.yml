@@ -38,4 +38,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-
