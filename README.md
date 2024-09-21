@@ -68,12 +68,6 @@ If you find my work useful, please consider talking with me</a>!
 <!-- https://github.com/anuraghazra/github-readme-stats/ -->
 <!-- https://github.com/hcysky/awesome-github-profile-readme?tab=readme-ov-file -->
 
-------
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=hcysky" width="auto"></img>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hcysky&show-other-skills=true" width="auto"></img>
-
-
 
 ---
 
