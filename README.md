@@ -52,6 +52,15 @@ If you find my work useful, please consider talking with me</a>!
 
 ---
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![hcysky's github activity graph](https://raw.githubusercontent.com/hcysky/hcysky/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+
+
+
 <!-- ![hcysky's github stats](https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&hide_border=true&hide=contribs&theme=dark)-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&theme=gotham" alt="hcysky" />
