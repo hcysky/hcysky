@@ -68,6 +68,7 @@ If you find my work useful, please consider talking with me</a>!
 <!-- https://github.com/anuraghazra/github-readme-stats/ -->
 <!-- https://github.com/hcysky/awesome-github-profile-readme?tab=readme-ov-file -->
 
+<!-- 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hcysky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hcysky's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcysky&layout=compact&theme=buefy&hide_border=true" /></a> |
 | :-------------: | :-------------: |
 
@@ -81,9 +82,9 @@ If you find my work useful, please consider talking with me</a>!
   </a>
 </p>
 
+ <table align="center" border="1">
+-->
 
-
---- <table align="center" border="1">
 
 <table align="center">
   <tr>
