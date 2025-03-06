@@ -86,6 +86,7 @@ If you find my work useful, please consider talking with me</a>!
 -->
 
 
+<!-- 
 <table align="center">
   <tr>
     <td>
@@ -100,7 +101,7 @@ If you find my work useful, please consider talking with me</a>!
     </td>
   </tr>
 </table>
-
+-->
 
 
 
